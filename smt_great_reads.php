@@ -3,7 +3,7 @@
 Plugin Name: SMT Great Reads
 Plugin URI: https://socialmovementtechnologies.org
 Description: Deploys the SMT Great Reads custom post type.
-Author: eman5608
+Author: Esmond-M
 Version: 0.1
 Author URI: https://socialmovementtechnologies.org
 Text Domain: smt_great_reads
